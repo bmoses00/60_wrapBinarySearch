@@ -9,13 +9,9 @@ y = log x (base two) relates two variables, x and y.
 Essentially, 'y' is the exponent of 2 that
 makes Math.pow(2, y) equal to 'x'.
 
-Graph:   
-y                   ---------------------------   
-^        -----------   
-|     ---   
-|    -   
-|   
- -- -- -- -- -- > x   
+Its graph looks similar to a square root curve,   
+except flatter.
+
 ---
  Recursive problem:
 ---
