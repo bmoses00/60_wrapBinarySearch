@@ -28,13 +28,15 @@ y                   ---------------------------
  OR
  (2) Has the desired element been found
 
- Solution to the base cases:
+ Solution to the base cases:   
  (1) Return -1   
  (2) Return the index of the desired element   
 
- Solution the recursive cases:   
+ Solution the recursive cases:  
+
  (no leftover processing)   
  (no concatenation)   
+
  (1) If the index of the desired element is lower than   
  the index currently being checked*,   
  then follow these instructions for the list of index 0   
