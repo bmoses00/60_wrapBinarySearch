@@ -13,7 +13,7 @@ Its graph looks similar to a square root curve,
 except flatter.
 
 ---
- Recursive problem:
+Sequence of problem solving:
 ---
 
  0. problem:
@@ -24,16 +24,21 @@ except flatter.
  list of size n, the recursive abstraction can find the index
  of the desired element in a list of size approximately n/2
 
- 2. Binary decision:
+---
+Solution to problem:
+---
+
+ 0. Binary decision:
  (1) Is the size of the list one or lower
  OR
  (2) Has the desired element been found
 
- Solution to the base cases:   
+
+ 1. Solution to the base cases:   
  (1) Return -1   
  (2) Return the index of the desired element   
 
- Solution the recursive cases:  
+ 2. Solution the recursive cases:  
 
  (no leftover processing)   
  (no concatenation)   
