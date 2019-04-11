@@ -1,5 +1,9 @@
 # 60_wrapBinarySearch
 
+---
+Explanation of Logarithm:
+---
+
 y = log x (base two) relates two variables, x and y.
 
 Essentially, 'y' is the exponent of 2 that
@@ -15,6 +19,7 @@ y                   ---------------------------
 ---
  Recursive problem:
 ---
+
  0. problem:
  In a list of size n, find the index of a desired element.
 
