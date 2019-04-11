@@ -12,9 +12,9 @@ y                   ---------------------------
 |    -   
 |   
  -- -- -- -- -- > x   
-
+---
  Recursive problem:
-
+---
  0. problem:
  In a list of size n, find the index of a desired element.
 
