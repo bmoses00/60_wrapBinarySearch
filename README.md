@@ -29,26 +29,26 @@ Solution to problem:
 ---
 
  0. Binary decision:
- (1) Is the size of the list one or lower
- OR
- (2) Has the desired element been found
+ *(1)* Is the size of the list one or lower   
+ OR   
+ *(2)* Has the desired element been found   
 
 
  1. Solution to the base cases:   
- (1) Return -1   
- (2) Return the index of the desired element   
+ *(1)* Return -1   
+ *(2)* Return the index of the desired element   
 
  2. Solution the recursive cases:  
 
  (no leftover processing)   
  (no concatenation)   
 
- (1) If the index of the desired element is lower than   
- the index currently being checked*,   
+ *(1)* If the index of the desired element is lower than   
+ the index currently being checked,   
  then follow these instructions for the list of index 0   
  to index currently being checked - 1   
- (2) Else,  
+ *(2)* Else,  
  follow these instructions for the list of index currently   
- being checked* + 1 to the last element of the list    
+ being checked + 1 to the last element of the list    
 
 *index currently being checked is the middle index
