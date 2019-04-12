@@ -28,7 +28,7 @@ Sequence of problem solving:
 Solution to problem:
 ---
 
- 0. Binary decision:
+ 0. Binary decision:   
  *(1)* Is the size of the list one or lower   
  OR   
  *(2)* Has the desired element been found   
